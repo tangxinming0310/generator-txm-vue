@@ -20,7 +20,6 @@ module.exports = class extends Generator {
       '.browserslistrc',
       '.editorconfig',
       '.eslintrc.js',
-      '.gitignore',
       'babel.config.js',
       'package.json',
       'README.md',
